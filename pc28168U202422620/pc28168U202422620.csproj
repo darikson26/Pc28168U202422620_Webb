@@ -10,4 +10,9 @@
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.5"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="DisbursementOrder\Application\" />
+      <Folder Include="DisbursementOrder\domain\" />
+    </ItemGroup>
+
 </Project>
